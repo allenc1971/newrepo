@@ -1,0 +1,5 @@
+<?php
+
+echo 'this is php script diguised as txt file';
+
+?>
